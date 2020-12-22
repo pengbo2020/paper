@@ -1,0 +1,195 @@
+Chikrii Softlab pseudoTeX 4.1 report.
+http://www.chikrii.com, mailto: support@chikrii.com
+
+main.tex (Ln 1) Warning: Can't find pseudoTeX definition for class/package (thuthesis)
+main.tex (Ln 11) Warning: Can't find pseudoTeX definition for class/package (thuthesis)
+main.tex (Ln 14) Syntax Error: Undefined control sequence (\graphicspath)
+main.tex (Ln 22) Syntax Error: Undefined control sequence (\frontmatter)
+cover.tex (Ln 1) Syntax Error: Undefined control sequence (\thusetup)
+cover.tex (Ln 71) Error: Environment (cabstract) undefined
+cover.tex (Ln 80) Syntax Error: Undefined control sequence (\thuthesis)
+cover.tex (Ln 98) Error: Environment (eabstract) undefined
+main.tex (Ln 26) Syntax Error: Undefined control sequence (\makecover)
+main.tex (Ln 29) Syntax Error: Undefined control sequence (\tableofcontents)
+main.tex (Ln 36) Syntax Error: Undefined control sequence (\mainmatter)
+chap01.tex (Ln 1) Syntax Error: Undefined control sequence (\chapter)
+chap01.tex (Ln 4) Syntax Error: Undefined control sequence (\thuthesis)
+chap01.tex (Ln 5) Syntax Error: Undefined control sequence (\thuthesis)
+chap01.tex (Ln 38) Syntax Error: Undefined control sequence (\kaishu)
+chap01.tex (Ln 45) Syntax Error: Undefined control sequence (\fangsong)
+chap01.tex (Ln 51) Syntax Error: Undefined control sequence (\ifcsname)
+chap01.tex (Ln 51) Syntax Error: Extra '\endcsname'
+chap01.tex (Ln 51) Syntax Error: Undefined control sequence (\youyuan)
+chap01.tex (Ln 51) Syntax Error: extra \fi\or\else
+chap01.tex (Ln 51) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 51) Syntax Error: extra \fi\or\else
+chap01.tex (Ln 57) Syntax Error: Undefined control sequence (\heiti)
+chap01.tex (Ln 62) Syntax Error: Undefined control sequence (\ifcsname)
+chap01.tex (Ln 62) Syntax Error: Extra '\endcsname'
+chap01.tex (Ln 62) Syntax Error: Undefined control sequence (\lishu)
+chap01.tex (Ln 62) Syntax Error: extra \fi\or\else
+chap01.tex (Ln 62) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 62) Syntax Error: extra \fi\or\else
+chap01.tex (Ln 67) Syntax Error: Undefined control sequence (\songti)
+chap01.tex (Ln 77) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 77) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 77) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 78) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 78) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 79) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 79) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 79) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 79) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 80) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 80) Syntax Error: Undefined control sequence (\marg)
+chap01.tex (Ln 86) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+chap01.tex (Ln 89) Syntax Error: Undefined control sequence (\toprule)
+chap01.tex (Ln 90) Syntax Error: Undefined control sequence (\heiti)
+chap01.tex (Ln 90) Syntax Error: Undefined control sequence (\heiti)
+chap01.tex (Ln 90) Syntax Error: Undefined control sequence (\midrule)
+chap01.tex (Ln 97) Syntax Error: Undefined control sequence (\bottomrule)
+chap01.tex (Ln 104) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 114) Syntax Error: Undefined control sequence (\tablename) within (\cite)
+chap01.tex (Ln 119) Syntax Error: Undefined control sequence (\diagbox)
+chap01.tex (Ln 121) Warning: Misplaced superscript
+chap01.tex (Ln 122) Warning: Misplaced superscript
+chap01.tex (Ln 124) Syntax Error: Undefined control sequence (\thuthesis)
+chap01.tex (Ln 130) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 131) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 136) Syntax Error: Undefined control sequence (\heiti)
+chap01.tex (Ln 157) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+chap01.tex (Ln 160) Syntax Error: Undefined control sequence (\toprule)
+chap01.tex (Ln 161) Syntax Error: Undefined control sequence (\midrule)
+chap01.tex (Ln 162) Syntax Error: Undefined control sequence (\bottomrule)
+chap01.tex (Ln 167) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+chap01.tex (Ln 170) Syntax Error: Undefined control sequence (\toprule)
+chap01.tex (Ln 171) Syntax Error: Undefined control sequence (\midrule)
+chap01.tex (Ln 172) Syntax Error: Undefined control sequence (\bottomrule)
+chap01.tex (Ln 194) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+chap01.tex (Ln 196) Syntax Error: Undefined control sequence (\subcaptionbox)
+chap01.tex (Ln 199) Syntax Error: Undefined control sequence (\toprule)
+chap01.tex (Ln 200) Syntax Error: Undefined control sequence (\midrule)
+chap01.tex (Ln 201) Syntax Error: Undefined control sequence (\bottomrule)
+chap01.tex (Ln 205) Syntax Error: Undefined control sequence (\subcaptionbox)
+chap01.tex (Ln 208) Syntax Error: Undefined control sequence (\toprule)
+chap01.tex (Ln 209) Syntax Error: Undefined control sequence (\midrule)
+chap01.tex (Ln 210) Syntax Error: Undefined control sequence (\bottomrule)
+chap01.tex (Ln 218) Syntax Error: Undefined control sequence (\dawu)
+chap01.tex (Ln 219) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+chap01.tex (Ln 230) Syntax Error: Undefined control sequence (\thuthesis)
+chap01.tex (Ln 249) Syntax Error: Undefined control sequence (\toprule)
+chap01.tex (Ln 254) Syntax Error: Undefined control sequence (\midrule)
+chap01.tex (Ln 257) Syntax Error: Undefined control sequence (\toprule)
+chap01.tex (Ln 262) Syntax Error: Undefined control sequence (\midrule)
+chap01.tex (Ln 292) Syntax Error: Undefined control sequence (\bottomrule)
+chap01.tex (Ln 300) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 300) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 301) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 302) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 306) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 311) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 317) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+chap01.tex (Ln 319) Syntax Error: Undefined control sequence (\framebox)
+chap01.tex (Ln 319) Syntax Error: Undefined control sequence (\thuthesis)
+chap01.tex (Ln 324) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+chap01.tex (Ln 326) Syntax Error: Undefined control sequence (\framebox)
+chap01.tex (Ln 351) Error: Environment (assumption) undefined
+chap01.tex (Ln 363) Error: Environment (definition) undefined
+chap01.tex (Ln 373) Error: Environment (proposition) undefined
+chap01.tex (Ln 381) Error: Environment (remark) undefined
+chap01.tex (Ln 389) Warning: Missing \endgroup inserted
+chap01.tex (Ln 389) Warning: Missing \endgroup inserted
+chap01.tex (Ln 389) Syntax Error: Missing $ inserted
+chap01.tex (Ln 392) Warning: Missing $ inserted
+chap01.tex (Ln 393) Warning: Missing $ inserted
+chap01.tex (Ln 393) Syntax Error: Display math should end with $$
+chap01.tex (Ln 393) Warning: Extra }
+chap01.tex (Ln 402) Error: Environment (axiom) undefined
+chap01.tex (Ln 419) Error: Environment (lemma) undefined
+chap01.tex (Ln 433) Error: Environment (theorem) undefined
+chap01.tex (Ln 436) Error: Environment (subequations) undefined
+chap01.tex (Ln 459) Error: Environment (corollary) undefined
+chap01.tex (Ln 476) Error: Environment (example) undefined
+chap01.tex (Ln 489) Error: Environment (exercise) undefined
+chap01.tex (Ln 493) Error: Environment (conjecture) undefined
+chap01.tex (Ln 498) Error: Environment (problem) undefined
+chap01.tex (Ln 502) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 502) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 510) Syntax Error: Undefined control sequence (\cs)
+chap01.tex (Ln 525) Syntax Error: Undefined control sequence (\inlinecite)
+chap01.tex (Ln 543) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap01.tex (Ln 544) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap01.tex (Ln 544) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap01.tex (Ln 547) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap01.tex (Ln 547) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap01.tex (Ln 547) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap01.tex (Ln 548) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap01.tex (Ln 548) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap01.tex (Ln 551) Syntax Error: Undefined control sequence (\pkg)
+chap01.tex (Ln 554) Syntax Error: Undefined control sequence (\symbf) within (\mat)
+chap01.tex (Ln 554) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap01.tex (Ln 555) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap01.tex (Ln 560) Syntax Error: Undefined control sequence (\pkg)
+chap02.tex (Ln 1) Syntax Error: Undefined control sequence (\chapter)
+chap02.tex (Ln 11) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap02.tex (Ln 11) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap02.tex (Ln 11) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap02.tex (Ln 12) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap02.tex (Ln 12) Syntax Error: Undefined control sequence (\symbf) within (\vec)
+chap02.tex (Ln 18) Syntax Error: Undefined control sequence (\pkg)
+chap02.tex (Ln 19) Syntax Error: Undefined control sequence (\pkg)
+chap02.tex (Ln 26) Syntax Error: Undefined control sequence (\pkg)
+chap02.tex (Ln 32) Syntax Error: Undefined control sequence (\pkg)
+chap02.tex (Ln 37) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+chap02.tex (Ln 58) Syntax Error: Undefined control sequence (\cs)
+chap02.tex (Ln 59) Syntax Error: Undefined control sequence (\pkg)
+chap02.tex (Ln 60) Syntax Error: Undefined control sequence (\cs)
+chap02.tex (Ln 60) Syntax Error: Undefined control sequence (\cs)
+chap02.tex (Ln 61) Syntax Error: Undefined control sequence (\pkg)
+chap02.tex (Ln 61) Syntax Error: Undefined control sequence (\pkg)
+chap02.tex (Ln 62) Syntax Error: Undefined control sequence (\cs)
+chap02.tex (Ln 62) Syntax Error: Undefined control sequence (\cs)
+chap02.tex (Ln 62) Syntax Error: Undefined control sequence (\cs)
+chap02.tex (Ln 66) Syntax Error: Undefined control sequence (\subcaptionbox)
+chap02.tex (Ln 69) Syntax Error: Undefined control sequence (\subcaptionbox)
+chap02.tex (Ln 71) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+chap02.tex (Ln 76) Error: Environment (subfigure) undefined
+chap02.tex (Ln 78) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+chap02.tex (Ln 81) Error: Environment (subfigure) undefined
+chap02.tex (Ln 81) Syntax Error: missing number, treated as zero
+chap02.tex (Ln 81) Syntax Error: illegal unit of measure
+chap02.tex (Ln 83) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+chap02.tex (Ln 85) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+chap02.tex (Ln 110) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+chap02.tex (Ln 116) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+main.tex (Ln 42) Syntax Error: Undefined control sequence (\backmatter)
+main.tex (Ln 59) Confusion: Can't open BibTeX bibliography list file (refs.bbl)
+main.tex (Ln 62) Error: Environment (appendix) undefined
+appendix01.tex (Ln 1) Syntax Error: Undefined control sequence (\chapter)
+appendix01.tex (Ln 12) Warning: Misplaced superscript
+appendix01.tex (Ln 17) Warning: Misplaced superscript
+appendix01.tex (Ln 41) Syntax Error: Undefined control sequence (\bigm)
+appendix01.tex (Ln 97) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+appendix01.tex (Ln 109) Syntax Error: Undefined control sequence (\thuthesis)
+appendix01.tex (Ln 132) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+appendix01.tex (Ln 176) Error: Environment (translationbib) undefined
+appendix01.tex (Ln 183) Syntax Error: Undefined control sequence (\chapter)
+appendix01.tex (Ln 187) Syntax Error: Undefined control sequence (\heiti)
+appendix01.tex (Ln 193) Syntax Error: Undefined control sequence (\tag)
+appendix01.tex (Ln 207) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+appendix01.tex (Ln 218) Syntax Error: Undefined control sequence (\thuthesis)
+appendix01.tex (Ln 243) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+appendix01.tex (Ln 261) Syntax Error: Undefined control sequence (\chapter)
+appendix01.tex (Ln 263) Syntax Error: Undefined control sequence (\cs)
+resume.tex (Ln 1) Error: Environment (resume) undefined
+resume.tex (Ln 3) Syntax Error: Undefined control sequence (\resumeitem)
+resume.tex (Ln 11) Syntax Error: Undefined control sequence (\researchitem)
+resume.tex (Ln 14) Error: Environment (publications) undefined
+resume.tex (Ln 26) Error: Environment (publications) undefined
+resume.tex (Ln 26) Syntax Error: Undefined control sequence (\publicationskip)
+resume.tex (Ln 26) Syntax Error: Undefined control sequence (\publicationskip)
+resume.tex (Ln 33) Error: Environment (publications) undefined
+resume.tex (Ln 43) Syntax Error: Undefined control sequence (\researchitem)
+resume.tex (Ln 44) Error: Environment (achievements) undefined
+ack.tex (Ln 3) Error: Environment (acknowledgement) undefined
+ack.tex (Ln 11) Syntax Error: Undefined control sequence (\thuthesis)

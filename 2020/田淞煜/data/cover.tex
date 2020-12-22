@@ -1,0 +1,106 @@
+\thusetup{
+  %******************************
+  % 注意：
+  %   1. 配置里面不要出现空行
+  %   2. 不需要的配置信息可以删除
+  %******************************
+  %
+  %=====
+  % 秘级
+  %=====
+  secretlevel={秘密},
+  secretyear={10},
+  %
+  %=========
+  % 中文信息
+  %=========
+  ctitle={抗逆向分析 PE 文件保护系统研究与实现},
+  cdegree={工程硕士},
+  cdepartment={计算机科学与技术学院},
+  cmajor={计算机技术},
+  cauthor={田淞煜},
+  csupervisor={李鹏},
+  cassosupervisor={}, % 副指导老师
+  ccosupervisor={}, % 联合指导老师
+  % 日期自动使用当前时间，若需指定按如下方式修改：
+  cdate={2021年4月},
+  %
+  % 博士后专有部分
+  catalognumber     = {TP666},  % 可以留空
+  udc               = {UDC},  % 可以留空
+  id                = {编号},  % 可以留空： id={},
+  cfirstdiscipline  = {计算机科学与技术},  % 流动站（一级学科）名称
+  cseconddiscipline = {系统结构},  % 专 业（二级学科）名称
+  postdoctordate    = {2009 年 7 月——2011 年 7 月},  % 工作完成日期
+  postdocstartdate  = {2009 年 7 月 1 日},  % 研究工作起始时间
+  postdocenddate    = {2011 年 7 月 1 日},  % 研究工作期满时间
+  %
+  %=========
+  % 英文信息
+  %=========
+  etitle={Research and implementation of PE file protection system for antistress analysis},
+  % 这块比较复杂，需要分情况讨论：
+  % 1. 学术型硕士
+  %    edegree：必须为Master of Arts或Master of Science（注意大小写）
+  %             “哲学、文学、历史学、法学、教育学、艺术学门类，公共管理学科
+  %              填写Master of Arts，其它填写Master of Science”
+  %    emajor：“获得一级学科授权的学科填写一级学科名称，其它填写二级学科名称”
+  % 2. 专业型硕士
+  %    edegree：“填写专业学位英文名称全称”
+  %    emajor：“工程硕士填写工程领域，其它专业学位不填写此项”
+  % 3. 学术型博士
+  %    edegree：Doctor of Philosophy（注意大小写）
+  %    emajor：“获得一级学科授权的学科填写一级学科名称，其它填写二级学科名称”
+  % 4. 专业型博士
+  %    edegree：“填写专业学位英文名称全称”
+  %    emajor：不填写此项
+  edegree={Master of Engineering},
+  emajor={Computer Science and Technology},
+  eauthor={Tian Songyu},
+  esupervisor={Professor Zheng Weimin},
+  eassosupervisor={Chen Wenguang},
+  % 日期自动生成，若需指定按如下方式修改：
+  % edate={December, 2005}
+  %
+  % 关键词用“英文逗号”分割
+  ckeywords={虚拟软件加壳，代码混淆，PE文件保护，逆向工程，软件保护},
+  ekeywords={Virtual software packing, code obfuscation, PE file protection, reverse engineering, software protection}
+}
+
+% 定义中英文摘要和关键字
+\begin{cabstract}
+%在软件行业快速发展的同时，软件逆向工程技术和二进制分析技术也在 快速发展和进步，使得逆向软件分析者对软件的逆向能力和分析效率大大提 高，给软件安全保护工作带来极大挑战。
+
+为应对逆向分析给 Windows 软件带来的安全威胁，本文提出并实现一个针对 Windows 可执行程序的安全保护系统，该系统对可执行程序逆向中的静态分析和动态分析过程进行保护，有效提高逆向分析者的分析难度。采取的主要保护措施有：一、加壳，在已有虚拟机加壳技术的基础上进行改进，提出多样化Handler的保护机制；二、代码混淆、通过对软件进行混淆处理，改变程序的运行时的函数块的结构并增加指令的复杂度，以此来增加逆向分析难度。本文以增强 PE 文件的抗逆向能力为目的，对 Windows 平台下的 PE 文件 的二进制混淆技术和虚拟机加壳技术进行研究，主要工作包括：
+
+首先，分析Windows下PE文件的加壳技术和二进制保护技术的研究现状，对PE文件抗逆向分析的常见方法进行总结，简单阐述PE文件加壳原理和市面流行壳的类型分析。
+
+其次，对基于虚拟机的多样化Handler加壳保护方式进行详细阐述，对建立的数据结构、调用约定和框架都从源码的层面上进行详细解释，通过对比普通Handler实现和多样化Handler实现的优缺点，最终证明多样化Handler具有更强的抗逆向性能，进而证明所提出的加壳方法的有效性。
+
+再次，提出建立索引的方式对函数间基本块进行交换的静态保护算法，对算法的基本思想进行简要阐述，通过对常用的反调试技术进行分析，发现常用反调试技术的局限性，在其基础上进行优化改进，在最后设计并实现一个二进制混淆器。
+
+最后，对以上提出的加壳方式进行实验验证，通过与流行加壳软件对比压缩率、运行时间额外开销、静态和动态指令执行率等参数，间接证明提出的保护方式是有效可性的，最终实验结果得出提出的保护方式在隐蔽性、运行时间开销和占用空间等方面具有一定优势。
+
+
+
+\end{cabstract}
+
+% 如果习惯关键字跟在摘要文字后面，可以用直接命令来设置，如下：
+% \ckeywords{\TeX, \LaTeX, CJK, 模板, 论文}
+
+\begin{eabstract}
+%With the rapid development of the software industry, software reverse engineering technology and binary analysis technology are also developing and progressing rapidly, which greatly improves the reverse-software analysts' ability and analysis efficiency of software, and brings great challenges to software security protection. 
+
+In order to deal with the security threats brought by reverse analysis to Windows software, this paper proposes and implements a security protection system for Windows executable programs. The system protects the static analysis and dynamic analysis process in the reverse analysis of executable programs and effectively improves reverse analysis. The difficulty of the analysis. The main protection measures adopted are: 1. Packing, improving on the basis of existing virtual machine packing technology, and proposing a protection mechanism of diversified Handler; 2. Code obfuscation, changing the operation of the program by obfuscating the software The structure of the function block at the time and increase the complexity of the instruction, so as to increase the difficulty of reverse analysis. This paper aims at enhancing the anti-reverse ability of PE files, and researches the binary obfuscation technology and virtual machine packing technology of PE files under the Windows platform. The main work includes:
+
+First, analyze the research status of PE file packer technology and binary protection technology under Windows, summarize the common methods of PE file anti-reverse analysis, briefly explain the PE file packer principle and the type analysis of popular shells in the market.
+
+Secondly, the virtual machine-based diversified Handler shelling protection method is elaborated, and the established data structure, calling convention and framework are explained in detail from the source code level, and the advantages of common Handler implementation and diversified Handler implementation are compared. The shortcomings finally prove that the diversified Handler has stronger anti-reverse performance, and then prove the effectiveness of the proposed packing method.
+
+Thirdly, a static protection algorithm for exchanging basic blocks between functions is proposed by establishing an index, and the basic idea of ​​the algorithm is briefly explained. Through the analysis of the commonly used anti-debugging techniques, the limitations of the commonly used anti-debugging techniques are found. Optimize and improve on the above, and finally design and implement a binary obfuscator.
+
+Finally, the experimental verification of the above-mentioned packing method is carried out. By comparing the compression rate, runtime overhead, static and dynamic instruction execution rate and other parameters with popular packing software, it indirectly proves that the proposed protection method is effective and feasible. The experimental results show that the proposed protection method has certain advantages in terms of concealment, running time overhead and space occupation.
+
+\end{eabstract}
+
+% \ekeywords{\TeX, \LaTeX, CJK, template, thesis}
